@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **AbdAlrahaman.MAHMOUD900746@ci.menofia.edu.eg**
+- 📫 How to reach me **AbdelrahmanShady.exe@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
