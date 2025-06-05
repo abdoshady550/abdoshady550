@@ -16,7 +16,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -24,6 +24,7 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/framework/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/net-framework.png" alt="asp.net" width="40" height="40"/> </a>
 </a>
 <a href="https://learn.microsoft.com/en-us/ef/core/get-started/" target="_blank" rel="noreferrer"> <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsuruac0s1d4ab4wx51uv.png" alt="Entity Framework" width="70" height="40"/> </a>
-  <a href="https://www.w3schools.com/sql" target="_blank" rel="noreferrer"> <img src="https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png" alt="sql" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>   </p>
+  <a href="https://www.w3schools.com/sql" target="_blank" rel="noreferrer"> <img src="https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png" alt="sql" width="40" height="40"/> </a>  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdoshady550&show_icons=true&locale=en&layout=compact" alt="abdoshady550" /></p>
