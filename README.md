@@ -34,8 +34,7 @@
     </a> 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
      </a> 
-     <a href="https://www.w3schools.com/cs" target="_blank" rel="noreferrer"> <img src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" alt="c#" width="40" height="40"/> 
-      </a>
+     <a href="https://www.w3schools.com/cs" target="_blank" rel="noreferrer"> <img src="https://www.jetbrains.com/guide/assets/csharp-logo-265a149e.svg" alt="c#" width="40" height="40"/>  </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/framework/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/net-framework.png" alt="asp.net" width="40" height="40"/>
 
 </a>
