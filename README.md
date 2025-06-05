@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/abdoshady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdoshady" height="30" width="40" /></a>
 <a href="https://fb.com/www.facebook.com/abdo.shady.1420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="www.facebook.com/abdo.shady.1420" height="30" width="40" /></a>
- <a href="https://wa.me/qr/HUKHXL76MIDFL1" target="blank"><img align="center" src="https://png.pngtree.com/png-clipart/20190516/original/pngtree-whatsapp-icon-png-image_3584845.jpg" alt="Whatsapp/abdo.shady" height="30" width="40" /></a>
+ <a href="https://wa.me/qr/HUKHXL76MIDFL1" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-whatsapp-logo-icon-4456-thumb.png" alt="Whatsapp/abdo.shady" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
