@@ -1,7 +1,7 @@
 <h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdelrahman+Shady" alt="Typing SVG" /></a></h1>
 <h3 align="center">A Passionate Full Stack Developer From Egypt</h3>
 
-- 🔭 I’m currently working on **BackEnd api**
+- 🔭 I’m currently working on **BackEnd Apis**
 
 - 🌱 I’m currently learning **ASP.net**
 
@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/abdoshady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdoshady" height="30" width="40" /></a>
 <a href="https://fb.com/www.facebook.com/abdo.shady.1420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="www.facebook.com/abdo.shady.1420" height="30" width="40" /></a>
- <a href="https://wa.me/qr/HUKHXL76MIDFL1" target="blank"><img align="center" src="https://cdn-icons-png.freepik.com/256/15707/15707917.png?semt=ais_hybrid" alt="Whatsapp/abdo.shady" height="40" width="40" /></a>
+ <a href="https://wa.me/qr/HUKHXL76MIDFL1" target="blank"><img align="center" src=" https://img.favpng.com/8/8/22/logo-whatsapp-scalable-vector-graphics-icon-png-favpng-9iUQUh4a0d4tGPrMAM4hR4kPF.jpg" alt="Whatsapp/abdo.shady" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
